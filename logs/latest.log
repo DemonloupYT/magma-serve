@@ -1,0 +1,34 @@
+[18:00:25] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:00:25] [Server thread/INFO]: Loading properties
+[18:00:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at nz$2.run(SourceFile:100) [run.jar:?]
+[18:00:25] [Server thread/INFO]: Default game type: SURVIVAL
+[18:00:25] [Server thread/INFO]: Generating keypair
+[18:00:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:00:25] [Server thread/INFO]: Using default channel type
+[18:00:26] [Server thread/INFO]: Preparing level "world"
+[18:00:26] [Server thread/INFO]: Loaded 488 advancements
+[18:00:26] [Server thread/INFO]: Preparing start region for level 0
+[18:00:27] [Server thread/INFO]: Preparing spawn area: 94%
+[18:00:27] [Server thread/INFO]: Done (1,364s)! For help, type "help" or "?"
+[18:00:29] [Server thread/INFO]: Stopping server
+[18:00:29] [Server thread/INFO]: Saving players
+[18:00:29] [Server thread/INFO]: Saving worlds
+[18:00:29] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:00:29] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[18:00:29] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[18:00:29] [Server Shutdown Thread/INFO]: Stopping server
+[18:00:29] [Server Shutdown Thread/INFO]: Saving players
+[18:00:29] [Server Shutdown Thread/INFO]: Saving worlds
